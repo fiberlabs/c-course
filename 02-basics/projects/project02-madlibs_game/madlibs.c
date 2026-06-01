@@ -1,9 +1,15 @@
+/*
+Author: fiberlabs
+Date: 02nd June 2026
+Purpose: I am Learning C
+*/
+
 #include <stdio.h>
 
 int main() 
 {
     char adjective[50];
-    char noun[50];
+    char noun[50]; //chose char[] because C does not have a native C type...
     char verb[50];
     int number1;
     char city_name[50];
